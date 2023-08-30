@@ -1,3 +1,4 @@
+package Arrays;
 // O(n)
 // O(1)
 import java.util.Scanner;
